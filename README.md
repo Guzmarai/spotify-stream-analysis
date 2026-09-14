@@ -1,7 +1,7 @@
 # Project Summary
 This is an example of a simple data analysis on synthetic data to simulate Spotify Music Streaming Behavior, there is basically no need to run the python scripts since they serve only to demonstrate basic data cleanup methods, as for the PowerBI dashboard, it is connected to the CSV file in the bronze layer folder, and any data processing on that file is made directly inside PowerQuery and DAX formulas.
 
-Since this is a public repository, you only need to download the .pbix file for it to work.
+Since this is a public repository, you only need to download the .pbix file for it to work. ![dashboards/spotify-stream-analysis.pbix](dashboards/spotify-stream-analysis.pbix)s
 
 ## Installation & Setup
 
