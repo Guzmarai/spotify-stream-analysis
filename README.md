@@ -39,7 +39,7 @@ The idea here was to measure Track release on different dimensions, simple but e
 
 ### Page 2: Streaming Count
 ![Track Release Count](assets/readmesrc/Page-2.png)
-The idea here was to measure the count of times some listened to the songs. It's also effective to understand what are the characteristics of the most popular tracks.
+The idea here was to measure the count of track streams. It's also effective to understand what are the characteristics of the most listened tracks.
 
 ### Page 3: Streaming per Track Count
 ![Track Release Count](assets/readmesrc/Page-3.png)
