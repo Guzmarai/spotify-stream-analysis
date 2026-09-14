@@ -1,5 +1,5 @@
-data/gold
-data/silver
+data/gold/
+data/silver/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
