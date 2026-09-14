@@ -1,3 +1,6 @@
+data/gold
+data/silver
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
