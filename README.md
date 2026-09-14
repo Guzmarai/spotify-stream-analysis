@@ -31,3 +31,16 @@ To run your application or scripts within this managed environment:
 uv run main.py
 ```
 
+## Gallery
+
+### Page 1: Track Release Count
+![Track Release Count](assets/readmesrc/Page-1.png)
+The idea here was to measure Track release on different dimensions, simple but effective to understand what are the characteristics of most of the tracks released.
+
+### Page 2: Streaming Count
+![Track Release Count](assets/readmesrc/Page-2.png)
+The idea here was to measure the count of times some listened to the songs. It's also effective to understand what are the characteristics of the most popular tracks.
+
+### Page 3: Streaming per Track Count
+![Track Release Count](assets/readmesrc/Page-3.png)
+The idea here was to normalize the dimensions popularity, since the number of tracks released can overestimate the popularity on a specific country, label, artist or album, that's a better way to compare the average popularity for each analysis dimension
